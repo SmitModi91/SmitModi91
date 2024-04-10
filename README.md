@@ -8,6 +8,9 @@
 - 📫 How to reach me **modismit2@gmail.com**
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SmitModi91&label=PROFILE VISITOR&style=for-the-badge&color=green&abbreviated=true" alt="smit" /> </p>
+
+
 
 ### Connect with me:
 
