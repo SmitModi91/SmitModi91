@@ -26,4 +26,13 @@
 
 <a href="https://www.buymeacoffee.com/smitmodi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 190px !important;" ></a>
 
+**My github stats**
+
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=SmitModi91&count_private=true&show_icons=true&theme=radical" /> 
+
+**My Activity**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SmitModi91&" alt="smit" /></p>
+
+
 
