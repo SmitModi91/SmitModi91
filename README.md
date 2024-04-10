@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android, Java, Kotlin, Spring Boot, Flutter**
+- 💬 Ask me about **Android, Java, Kotlin, Spring Boot, Flutter, JetpackCompose**
 
 - 📫 How to reach me **modismit2@gmail.com**
 
