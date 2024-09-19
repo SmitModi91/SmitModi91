@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Modi</h1>
 <h3 align="center">A passionate and 10+ years of experience Android developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working on **JetpackCompose**
 
 - 💬 Ask me about **Android, Java, Kotlin, Spring Boot, Flutter, JetpackCompose**
 
@@ -17,11 +17,11 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/modi_smit2" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="modi_smit2" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/smit-modi-0493484b/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smit-modi-0493484b" height="22" width="22" /></a>
-<a href="https://www.facebook.com/SmitModi1991" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="SmitModi1991" height="22" width="22" /></a>
+<a href="https://twitter.com/modi_smit2" target="blank"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=5C7CFA" alt="modi_smit2" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/smit-modi-0493484b/" target="blank"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="smit-modi-0493484b" height="50" width="50" /></a>
+<a href="https://www.facebook.com/SmitModi1991" target="blank"><img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="SmitModi1991" height="50" width="50" /></a>
 
-</p>
+
 
 
 
