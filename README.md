@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **modismit2@gmail.com**
 
+Follow me on LinkedIn:
+www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=modismit2
 
 <a href="https://komarev.com/ghpvc/?username=SmitModi91&label=PROFILE-VISITOR&style=for-the-badge&color=green&abbreviated=true"><img src="https://komarev.com/ghpvc/?username=SmitModi91&label=PROFILE-VISITOR&style=for-the-badge&color=green&abbreviated=true">
 </a>
