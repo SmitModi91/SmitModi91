@@ -18,7 +18,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/modi_smit2" target="blank"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=5C7CFA" alt="modi_smit2" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/smit-modi-0493484b/" target="blank"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="smit-modi-0493484b" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/modismit2/" target="blank"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="modismit2" height="50" width="50" /></a>
 <a href="https://www.facebook.com/SmitModi1991" target="blank"><img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="SmitModi1991" height="50" width="50" /></a>
 
 
